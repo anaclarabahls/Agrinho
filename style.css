@@ -1,11 +1,12 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #197511;
-    --card-back-color: #62cf62;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('asstes/img/img/kazuend-19SC2oaVZW0-unsplash.jpg);
+    background: url('asstes/img/img/kazuend-19SC2oaVZW0-unsplash.jpg');
+    font-family: Bai Jamjuree;
 }
 
 #container {
