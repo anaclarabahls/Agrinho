@@ -1,31 +1,30 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Benefício de se morar no campo',
+    'Mais qualidade de vida',
+    'O ritmo de vida costuma ser mais tranquilo, com menos poluição sonora e do ar, o que contribui para a saúde física e mental. Há mais oportunidades para atividades ao ar livre e contato com a natureza, reduzindo o estresse.'
+
+criaCartao(
+    'Benfícios de se morar na cidade',
+    'Acesso facilitado a serviços e conveniências',
+    'Nas cidades, geralmente encontramos uma grande variedade de serviços como hospitais, escolas, bancos, supermercados e farmácias, muitas vezes com horários flexíveis e localizações convenientes. O transporte público costuma ser mais abrangente, facilitando a locomoção.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Curiosidade',
+    'O "som do silêncio" é bem barulhento.'
+    'Engana-se quem pensa que o campo é completamente silencioso. Na verdade, ele tem seus próprios sons característicos: o canto dos pássaros ao amanhecer, o coaxar dos sapos à noite, o vento nas árvores, o mugido do gado. Esse conjunto de sons naturais cria uma sinfonia única e relaxante.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Malefícios de se morar no campo',
+    'Acesso limitado a serviços e conveniências',
+    'No campo, pode haver uma menor disponibilidade de serviços básicos como hospitais especializados, grandes supermercados, agências bancárias e opções de lazer e cultura. A distância para centros urbanos pode dificultar o acesso a esses serviços.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-
-criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Malefícios de se morar na cidade',
+    'Alto custo de vida',
+    'Em geral, o custo de vida nas cidades, especialmente nas grandes metrópoles, tende a ser mais elevado. Isso inclui moradia (aluguel ou financiamento), transporte, alimentação e serviços, o que pode impactar significativamente o orçamento.'
 )
 
 
