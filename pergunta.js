@@ -12,7 +12,7 @@ criaCartao(
 criaCartao(
     'Curiosidade',
     'O "som do silêncio" é bem barulhento.'
-    'Engana-se quem pensa que o campo é completamente silencioso. Na verdade, ele tem seus próprios sons característicos: o canto dos pássaros ao amanhecer, o coaxar dos sapos à noite, o vento nas árvores, o mugido do gado. Esse conjunto de sons naturais cria uma sinfonia única e relaxante.'
+    'Engana-se quem pensa que o campo é completamente silencioso. Na verdade, ele tem seus próprios sons característicos, como o canto dos pássaros ao amanhecer, o coaxar dos sapos à noite, o vento nas árvores, o mugido do gado. Esse conjunto de sons naturais cria uma sinfonia única e relaxante.'
 )
 
 criaCartao(
@@ -29,7 +29,7 @@ criaCartao(
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Curiosidade',
+    'A "selva de pedra" também tem seus refúgios verdes',
+    'Apesar da grande quantidade de prédios e concreto, muitas cidades investem em espaços verdes como parques, praças e jardins. Esses oásis urbanos oferecem um respiro da agitação, proporcionando áreas para lazer, exercícios e contato com a natureza no meio da vida urbana.'
 )
