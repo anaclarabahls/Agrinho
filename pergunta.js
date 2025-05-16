@@ -12,7 +12,7 @@ criaCartao(
 criaCartao(
     'Curiosidade',
     'O "som do silêncio" é bem barulhento.'
-    'Engana-se quem pensa que o campo é completamente silencioso. Na verdade, ele tem seus próprios sons característicos, como o canto dos pássaros ao amanhecer, o coaxar dos sapos à noite, o vento nas árvores, o mugido do gado. Esse conjunto de sons naturais cria uma sinfonia única e relaxante.'
+   
 )
 
 criaCartao(
