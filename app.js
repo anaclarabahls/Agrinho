@@ -1,4 +1,4 @@
-function criaCartao(categoria, pergunta, resposta) {
+unction criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')
     cartao.className = 'cartao'
@@ -23,12 +23,6 @@ function criaCartao(categoria, pergunta, resposta) {
     }
     cartao.addEventListener('click', viraCartao)
 
-
-    container.appendChild(cartao)
-
-}
-    
-{
 
     container.appendChild(cartao)
 
