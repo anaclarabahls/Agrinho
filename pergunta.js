@@ -1,7 +1,8 @@
 criaCartao(
     'Benefício de se morar no campo',
     'Mais qualidade de vida',
-    'O ritmo de vida costuma ser mais tranquilo, com menos poluição sonora e do ar, o que contribui para a saúde física e mental. Há mais oportunidades para atividades ao ar livre e contato com a natureza, reduzindo o estresse.'
+    'O ritmo de vida costuma ser mais tranquilo, com menos poluição sonora e do ar, o que contribui para a saúde física e mental. Há mais oportunidades para atividades ao ar livre e contato com a natureza, reduzindo o estresse.' 
+)
 
 criaCartao(
     'Benfícios de se morar na cidade',
