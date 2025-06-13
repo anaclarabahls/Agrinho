@@ -1,16 +1,16 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #005c0f;
+    --card-back-color: #64e26f;
 }
 
 body {
-    background: url('');
+    background: url('assets/img/img/azul-codigo-binario-3d-vector-linha-de-fundo-abstrato-de-informati-400-35559254.jpg');
     font-family: Bai Jamjuree;
 }
 
 #container {
-    display: flex; 
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
@@ -82,8 +82,8 @@ body {
 }
 
 footer {
-    background-color: black;
-    color: white;
+    background-color: rgb(4, 75, 40);
+    color: rgb(168, 255, 128);
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -97,9 +97,9 @@ footer p {
 }
 
 @media (max-width: 560px) {
-    
+   
     body {
-        background: url(''), no-repeat cover;
+        background: url('assets/img/bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao {
@@ -114,4 +114,3 @@ footer p {
         font-size: 3.8vw;
     }
 }
-    
