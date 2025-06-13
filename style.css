@@ -5,12 +5,12 @@
 }
 
 body {
-    background: url('asstes/img/img/kazuend-19SC2oaVZW0-unsplash.jpg');
+    background: url('assets/img/azul-codigo-binario-3d-vector-linha-de-fundo-abstrato-de-informati-400-35559254.jpg');
     font-family: Bai Jamjuree;
 }
 
 #container {
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
@@ -97,7 +97,7 @@ footer p {
 }
 
 @media (max-width: 560px) {
-   
+    
     body {
         background: url('assets/img/bg-mobile.webp'), no-repeat cover;
     }
@@ -114,3 +114,4 @@ footer p {
         font-size: 3.8vw;
     }
 }
+    
